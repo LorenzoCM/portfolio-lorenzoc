@@ -9936,10 +9936,10 @@ blockquote {
     display: table-header-group;
   }
 
-  tr,
+  /* tr,
 img {
     page-break-inside: avoid;
-  }
+  } */
 
   p,
 h2,
@@ -10133,3 +10133,4 @@ section.resume-section .resume-section-content {
     padding-bottom: 5rem;
   }
 }
+
