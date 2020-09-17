@@ -10134,3 +10134,7 @@ section.resume-section .resume-section-content {
   }
 }
 
+.img-small {
+  border: 0.5rem solid rgba(223, 55, 4, 0.2);
+}
+
